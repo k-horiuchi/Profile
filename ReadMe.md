@@ -48,17 +48,17 @@ VPSを使ってクローリングしたり、下記のような作品を開発�
 
 - [Qiita](https://qiita.com/kanchan-1996)
 **15記事、1231コントリビュート**
-  - [某pay、不正アクセス事件についてまとめ](https://qiita.com/kanchan-1996/items/1ab5561d61f169cb05b4)
+  - [某pay、不正アクセス事件についてまとめ](https://qiita.com/kanchan-1996/items/1ab5561d61f169cb05b4)<br>
 一番伸びた記事がこちらです。
-  - [設計って何するの？ （UI設計とか）](https://qiita.com/kanchan-1996/items/f528bffbaccfe325032c)
+  - [設計って何するの？ （UI設計とか）](https://qiita.com/kanchan-1996/items/f528bffbaccfe325032c)<br>
   現場では仕様検討なども担当しており、一番実務に近い記事です。
-  - [【環境構築】ゼロから始めるElixir on Phoenix (2019)](https://qiita.com/kanchan-1996/items/42394f3322654ffbf6ee)
+  - [【環境構築】ゼロから始めるElixir on Phoenix (2019)](https://qiita.com/kanchan-1996/items/42394f3322654ffbf6ee)<br>
 未だに「Elixir 環境構築」で検索すると一番上に出ます。
   - IT芸人会というQiitaOrganizationの管理人をしています。去年末には[アドベントカレンダー](https://qiita.com/advent-calendar/2019/it-geinin)も開催しました。今年はIT芸人会の人数も増えたので、もっと盛り上がります。
 
 
 
-- [GitHub](https://github.com/k-horiuchi)
+- [GitHub](https://github.com/k-horiuchi)<br>
   気まぐれでソースコードを挙げたりしています。今後の課題として、翻訳等からOSS活動もしていきたいです。
 
 
