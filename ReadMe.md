@@ -43,7 +43,7 @@ VPSを使ってクローリングしたり、下記のような作品を開発�
 ### 外部での活動
 
 - [connpass](https://connpass.com/user/kanchan1996/)
-**１年間の勉強会参加数、約40回**
+**１年間の勉強会参加数、約40回。**
 登壇回数 5回
 
 - [Qiita](https://qiita.com/kanchan-1996)
